@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=
+comment1.target=void\ PlaneLength()
+comment1.text=Methods\ are\ defined\ next
+comment2.params=
+comment2.target=void\ Crash()
+comment3.params=
+comment3.target=void\ Luggage()
+comment4.params=
+comment4.target=void\ Hoursflying()
+comment5.params=
+comment5.target=void\ TakingOff()
+comment6.params=
+comment6.target=void\ BabyCrying()
+numComments=7
